@@ -1,2 +1,2 @@
 # lawn-mower
-this contain y lawn mower software part
+this contain my lawn mower software part
